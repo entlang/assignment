@@ -1,0 +1,2 @@
+C:\Users\Emina\Documents\Visual Studio 2015\Projects\Test\TestApi\obj\Debug\TestApi.dll
+C:\Users\Emina\Documents\Visual Studio 2015\Projects\Test\TestApi\obj\Debug\TestApi.pdb

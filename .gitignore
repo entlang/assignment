@@ -1,0 +1,9 @@
+app/**/*.js
+app/**/*.js.map
+/node_modules
+/typings
+*.log
+npm-debug.log*
+/fonts
+/css
+/js

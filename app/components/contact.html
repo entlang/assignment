@@ -1,0 +1,20 @@
+<div class="row no-margin">
+	<div class="col-xs-12">
+		<div class="row stickyHeader padding-left-10">
+			Contacts
+		</div>
+
+		<div class="row content">
+		    <div class="col-xs-8">
+                <div *ngFor="let contact of contacts">
+                    <div>
+                        <b>{{contact.FirstName}}</b>
+                    </div>
+                    <div>{{contact.LastName}}</div>
+                    <div>{{contact.Phone}}</div>
+                    <div>{{contact.Email}}</div>
+                </div>
+		    </div>
+		</div>
+	</div>
+</div>
