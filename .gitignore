@@ -2,6 +2,8 @@ app/**/*.js
 app/**/*.js.map
 /node_modules
 /typings
+/obj
+/bin
 *.log
 npm-debug.log*
 /fonts
